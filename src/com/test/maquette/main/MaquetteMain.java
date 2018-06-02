@@ -16,7 +16,7 @@ public class MaquetteMain {
 
     public static void main(String[] args) {
         try {
-            System.err.println("Maquette 1 !!");
+            System.err.println("Maquette depuis branche 1");
         } catch (final Exception e) {
             e.printStackTrace();
         }
